@@ -10,7 +10,7 @@
 </head>
 <body <?php body_class(); ?> >
 
-    <!--HEADER-->
+    <!--   HEADER   -->
     <header class="top_header cf">
         <div class="wrapper">
             <div class="header_block search-section">
